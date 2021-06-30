@@ -13,8 +13,8 @@
 
 ## 已知问题
 
-* 1.USB接口只有2.0速率
-* 2.OpenCore引导的Windows 10无法启动
+* USB接口只有2.0速率
+* OpenCore引导的Windows 10无法启动
 
 ## 使用的工具
 
