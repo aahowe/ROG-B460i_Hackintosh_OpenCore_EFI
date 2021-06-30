@@ -1,8 +1,8 @@
 # B460i_Hackintosh
 
-本项目是维护基于华硕ROG STRIX B460I主板的黑苹果引导
+本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
 
-> OpenCore：0.7.0
+> OpenCore：0.7.0 <br> 
 > macOS：Big Sur 11.3
 
 参阅的文档：
@@ -14,7 +14,7 @@
 ## 已知问题
 
 * USB接口只有2.0速率
-* OpenCore引导的Windows 10无法启动
+* OpenCore引导的 Windows 10 无法启动
 
 ## 使用的工具
 
