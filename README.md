@@ -33,7 +33,7 @@
 使用前需要替换三码
 
 ## 硬件
-* 主版：[ROG STRIX B460-I GAMING](https://www.asus.com.cn/Motherboards/ROG-STRIX-B460-I-GAMING/)
+* 主板：[ROG STRIX B460-I GAMING](https://www.asus.com.cn/Motherboards/ROG-STRIX-B460-I-GAMING/)
 * CPU：[Intel® Core™ i9-10900](https://www.intel.com/content/www/us/en/products/processors/core/i5-processors/i5-10400.html)
 * 显卡：[AMD R9 nano](https://www.amd.com/en/press-releases/amd-radeon-r9-nano-2015aug27) 
 * 网卡：[DW1560 (BCM94352Z)](https://www.amazon.com/Broadcom-BCM94352Z-802-11a-Bluetooth-867Mbps/dp/B0156DVQ7G)
