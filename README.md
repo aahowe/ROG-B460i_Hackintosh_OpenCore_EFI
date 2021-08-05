@@ -2,7 +2,7 @@
 
 本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
 
-> OpenCore：0.7.0 <br> 
+> OpenCore：0.7.2 <br> 
 > macOS：Big Sur 11.4
 
 参阅的文档：
