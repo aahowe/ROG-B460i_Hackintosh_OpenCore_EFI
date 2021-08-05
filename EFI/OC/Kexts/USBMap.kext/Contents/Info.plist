@@ -51,7 +51,7 @@
 					<key>HS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
 						AgAAAA==
@@ -190,7 +190,7 @@
 					<key>HS11</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>
 						CwAAAA==

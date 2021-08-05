@@ -145,6 +145,8 @@
 			<false/>
 			<key>ResetLogoStatus</key>
 			<true/>
+			<key>SyncTableIds</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>Booter</key>
@@ -289,6 +291,24 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
+				<string></string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>USBMap.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmPatchRAM3</string>
 				<key>Arch</key>
 				<string>Any</string>
@@ -348,24 +368,6 @@
 				<string>Any</string>
 				<key>BundlePath</key>
 				<string>NVMeFix.kext</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>USBMap.kext</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -823,6 +825,8 @@
 		</dict>
 		<key>Scheme</key>
 		<dict>
+		    <key>CustomKernel</key>
+			<false/>
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
@@ -1112,6 +1116,8 @@
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>GraphicsInputMirroring</key>
+			<true/>
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
