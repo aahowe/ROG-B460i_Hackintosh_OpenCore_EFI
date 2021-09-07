@@ -3,7 +3,7 @@
 本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
 
 > OpenCore：0.7.2 <br> 
-> macOS：Big Sur 11.4
+> macOS：Big Sur 11.5.2
 
 参阅的文档：
 
@@ -22,12 +22,6 @@
 [ProperTree](https://github.com/corpnewt/ProperTree)
 
 [Hackintool](https://github.com/headkaze/Hackintool)
-
-[MountEFI](https://github.com/corpnewt/MountEFI)
-
-[USBMap](https://github.com/corpnewt/USBMap)
-
-[OC auxiliary tools](https://github.com/ic005k/QtOpenCoreConfig)
 
 ## 本项目的使用
 使用前需要替换三码
