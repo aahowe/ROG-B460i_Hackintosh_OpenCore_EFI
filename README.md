@@ -2,8 +2,10 @@
 
 本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
 
-> OpenCore：0.7.4 <br> 
-> macOS：Big Sur 11.5.2
+> OpenCore：0.7.6 <br> 
+> macOS：Big Sur 12.0.1
+
+![](./image/1.png)
 
 参阅的文档：
 
@@ -11,9 +13,11 @@
 
 [Xjn´s Blog ：使用 OpenCore 引导黑苹果](https://blog.xjn819.com/post/opencore-guide.html)
 
-## 已知问题
+## 实现的功能
 
-* 无
+*  Wi-Fi&蓝牙正常工作
+*  隔空投送正常工作
+*  随航正常工作
 
 ## 使用的工具
 
