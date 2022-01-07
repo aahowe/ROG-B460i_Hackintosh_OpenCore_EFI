@@ -3,7 +3,7 @@
 本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
 
 > OpenCore：0.7.6 <br> 
-> macOS：Big Sur 12.0.1
+> macOS：Monterey 12.1
 
 ![](./image/1.png)
 
