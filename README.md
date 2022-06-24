@@ -2,16 +2,19 @@
 
 本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
 
-> OpenCore：0.7.8 <br> 
-> macOS：Monterey 12.1
+> OpenCore：0.8.1  
+>
+> macOS：Monterey 12.4
 
 ![](./image/1.png)
 
-参阅的文档：
+参阅：
 
 [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 [Xjn´s Blog ：使用 OpenCore 引导黑苹果](https://blog.xjn819.com/post/opencore-guide.html)
+
+[OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg)
 
 ## 实现的功能
 
@@ -22,13 +25,11 @@
 
 ## 使用的工具
 
-[HackintoshBuild](https://github.com/bugprogrammer/HackintoshBuild)
-
-[ProperTree](https://github.com/corpnewt/ProperTree)
+[Visual Studio Code](https://code.visualstudio.com/)
 
 [Hackintool](https://github.com/headkaze/Hackintool)
 
-## 本项目的使用
+## 使用
 使用前需要替换三码
 
 ## 硬件
