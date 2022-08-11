@@ -237,6 +237,11 @@
         <dict>
             <key>Add</key>
             <dict>
+                <key>PciRoot(0x0)/Pci(0x14,0x0)</key>
+                <dict>
+                    <key>acpi-wake-type</key>
+                    <data>AQ==</data>
+                </dict>
                 <key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
                 <dict>
                     <key>layout-id</key>
@@ -500,24 +505,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string></string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>HibernationFixup.kext</string>
-                    <key>Comment</key>
-                    <string>V1.4.6</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/HibernationFixup</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -1090,7 +1077,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 alcid=1</string>
+                    <string>keepsyms=1 alcid=1 swd_panic=1</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
