@@ -1165,7 +1165,7 @@
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data></data>
+                <data>IpqPC9Sd</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1173,9 +1173,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02G80L7046M</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>840DCEB7-2938-43BD-8B3B-43102E0E7114</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
