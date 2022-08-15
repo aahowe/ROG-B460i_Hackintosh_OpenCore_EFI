@@ -1,6 +1,6 @@
 # B460i_Hackintosh
 
-本项目是维护基于华硕 ROG STRIX B460I 主板的黑苹果引导
+基于华硕 [ROG STRIX B460-I GAMING](https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b460-i-gaming-model/) 主板的 **Open Core** 黑苹果引导
 
 > OpenCore：0.8.3  
 >
@@ -51,6 +51,7 @@
 | DVMT Pre-Allocated |  64MB   |
 |     SATA Mode      |  AHCI   |
 | iGPU Multi-Monitor | Enable  |
+|    Erp Support     | Disable |
 
 ## 硬件
 * 主板：[ROG STRIX B460-I GAMING](https://www.asus.com.cn/Motherboards/ROG-STRIX-B460-I-GAMING/)
@@ -59,7 +60,3 @@
 * 网卡：[BCM94352Z（fenvi）](https://cn.fenvi.com/product_detail_39.html)
 * 内存：[芝奇 Ripjaws V 16Gx2](https://gskill.com/cn/product/204/218/1535687484/F4-3200C16S-16GVK)  
 * 硬盘：[西数 WD_BLACK™ SN750 500G](https://shop.westerndigital.com/zh-cn/products/internal-drives/wd-black-sn750-nvme-ssd#WDS500G3X0C) 
-
-## 已知问题
-
-- 睡眠后一到两分钟内会断电，按开机键重启电脑
