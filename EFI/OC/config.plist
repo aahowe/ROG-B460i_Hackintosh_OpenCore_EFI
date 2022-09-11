@@ -356,7 +356,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.4</string>
+                    <string>V1.7.5</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1025,6 +1025,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>OpenShell.efi</string>
                     <key>Path</key>
@@ -1045,6 +1047,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>CleanNvram</string>
                     <key>Path</key>
@@ -1146,7 +1150,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02134405J90000JC</string>
+                <string>C02153902GU00001F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1160,9 +1164,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02G80L7046M</string>
+                <string>C02GX5YT046M</string>
                 <key>SystemUUID</key>
-                <string>840DCEB7-2938-43BD-8B3B-43102E0E7114</string>
+                <string>BD411091-9EC0-4AFC-A1B4-77BB4DBFFF54</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
