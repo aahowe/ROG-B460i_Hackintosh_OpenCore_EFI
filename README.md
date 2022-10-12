@@ -2,7 +2,7 @@
 
 基于华硕 [ROG STRIX B460-I GAMING](https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b460-i-gaming-model/) 主板的 **Open Core** 黑苹果引导
 
-> OpenCore：0.8.4  
+> OpenCore：0.8.5  
 >
 > macOS：Monterey 12.5
 
