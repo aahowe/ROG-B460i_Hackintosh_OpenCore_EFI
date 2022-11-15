@@ -6,10 +6,10 @@
 >
 > macOS：Ventura 13.01
 
-| ![1](/Users/howe/Hackintosh/ROG-B460i_Hackintosh_OpenCore_EFI/assets/1.png) | ![2](/Users/howe/Hackintosh/ROG-B460i_Hackintosh_OpenCore_EFI/assets/2.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![1](assets/1.png) | ![2](assets/2.png) |
+| ------------------ | ------------------ |
 
-![3](/Users/howe/Hackintosh/ROG-B460i_Hackintosh_OpenCore_EFI/assets/3.png)
+![3](assets/3.png)
 
 参考文档：
 
