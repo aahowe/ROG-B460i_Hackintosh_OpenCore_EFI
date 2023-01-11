@@ -2,9 +2,9 @@
 
 基于华硕 [ROG STRIX B460-I GAMING](https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b460-i-gaming-model/) 主板的 **Open Core** 黑苹果引导
 
-> OpenCore：0.8.6  
+> OpenCore：0.8.8  
 >
-> macOS：Ventura 13.01
+> macOS：Ventura 13.0.1
 
 | ![1](assets/1.png) | ![2](assets/2.png) |
 | ------------------ | ------------------ |
@@ -28,7 +28,7 @@
 *  隔空投送工作正常
 *  随航工作正常
 *  USB已定制，速率5G
-*  AMD Radeon RX 5000 系显卡优化
+*  睡眠唤醒正常
 
 ## 工具
 
